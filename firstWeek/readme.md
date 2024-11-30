@@ -8,3 +8,6 @@
    - Input Size 〰️
      - Small input sizes may mask inefficiencies in the algorithm.
      - Large input sizes expose scalability and performance issues.
+   - Algorithm Analysis 📉
+     - Analyze time complexity (e.g., 𝑂(𝑛), 𝑂(𝑛2), 𝑂(log𝑛))
+     - Analyze space complexity (memory usage).
