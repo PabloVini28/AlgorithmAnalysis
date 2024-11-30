@@ -1,16 +1,10 @@
-# Algorithm Analysis (PAA) 🖥️ 👨‍🔬
+# Algorithm Analysis Intro (PAA) 🖥️ 👨‍🔬
 
-## Asymptotic Analysis 📈
-  - Definition of Asymptotic Analysis 📝
-    - A mathematical approach to evaluate the performance of algorithms.
-    - Focuses on the behavior of an algorithm as the input size grows towards infinity.
-  - Big-O Notation ⚪
-    - O(1): Constant time.
-    - O(logn): Logarithmic time.
-    - O(n): Linear time.
-    - 𝑂(𝑛^2): Quadratic time.
-  - Growth Rates of Functions 🔢
-    - log𝑛 < 𝑛 < 𝑛log𝑛 < 𝑛^2 < 2𝑛 < 𝑛!
-  - Other Asymptotic Notations 📑
-    - Big-Theta (Θ): Describes the tight bound of complexity (both upper and lower).
-    - Big-Omega (Ω): Describes the lower bound of complexity.
+## Analysis of Algorithms 📈
+   - Sorting Problems ⚖️
+     - Bubble Sort: Simple but inefficient for large inputs 𝑂(𝑛2).
+     - Merge Sort: Efficient divide-and-conquer algorithm 𝑂(𝑛log𝑛).
+     - Quick Sort: Performs well on average cases but may degrade to 𝑂(𝑛2)) in the worst case
+   - Input Size 〰️
+     - Small input sizes may mask inefficiencies in the algorithm.
+     - Large input sizes expose scalability and performance issues.
