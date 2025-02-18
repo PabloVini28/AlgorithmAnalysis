@@ -8,7 +8,7 @@
   - Fifth week - Graphs, Breadth-First Search (BFS), and Depth-First Search (DFS). 🌐
   - Sixth week -
   - Seventh week -
-  - Eigth week -
+  - Eighth week -
   - Ninth week -
 
 ## Developer 👤
